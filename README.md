@@ -10,8 +10,8 @@
 8. $$\sum_{n=1}^{100} n = 5050$$
 
 2.2
-1.¬p → (q → r)
-2.r → ¬p
-3.¬r ∧ p ∧ q
-4.p → (r ∧ q)
-5.¬q ∧ r
+1.$$\neg p \rightarrow (q \rightarrow r)$$
+2.$$r \rightarrow \neg p$$
+3.$$\neg r \wedge p \wedge q$$
+4.$$p \rightarrow (r \wedge q)$$
+5.$$\neg q \wedge r$$
